@@ -1,4 +1,4 @@
-bind = '127.0.0.1:8001'
+bind = '127.0.0.1:8002'
 workers = 2
-user = "admin"
+user = "www"
 timeout = 120
